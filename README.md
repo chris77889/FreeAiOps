@@ -56,6 +56,7 @@ FreeAiOps 采用 **Apache License 2.0**，可自由用于商业和个人项目�
 
 - 💬 微信：freeaiclub
 - 📞 电话：+86-15700176897 
+![image](https://github.com/user-attachments/assets/07a865f0-325c-4405-8038-f2199fee4aa3)
 
 ---
 
