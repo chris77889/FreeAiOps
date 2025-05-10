@@ -1,1 +1,62 @@
-# FreeAiOps
+# FreeAiOps - 开源智能运维解决方案  
+
+🚀 **FreeAiOps** 是一个基于大模型的智能运维（AIOps）开源项目，旨在通过人工智能技术革新传统运维模式，实现自动化、智能化的运维管理。  
+
+## 🌟 项目愿景  
+
+FreeAiOps 致力于构建一个 **开放、高效、易用** 的 AIOps 平台，利用大模型（LLM）技术赋能运维行业，帮助企业和开发者：  
+✔ **自动化运维** - 减少人工干预，提升运维效率  
+✔ **智能故障预测** - 提前发现潜在问题，降低业务风险  
+✔ **根因分析（RCA）** - 快速定位问题根源，缩短故障恢复时间  
+✔ **可观测性增强** - 结合日志、指标、链路数据，提供深度分析  
+✔ **自然语言交互** - 通过对话式 AI 简化运维操作  
+
+## 🔥 核心特性  
+
+- **大模型驱动**：集成 LLM（如 GPT、LLaMA 等），实现智能问答、日志分析、异常检测  
+- **全栈可观测性**：支持日志（Log）、指标（Metric）、追踪（Trace）的智能分析  
+- **自动化运维**：提供智能告警、自愈脚本、自动化任务编排  
+- **开放架构**：插件化设计，兼容 Prometheus、Elasticsearch、Grafana 等主流工具  
+- **低代码/无代码**：通过自然语言即可配置运维策略，降低使用门槛  
+
+## 🛠️ 技术栈：golang python vue JavaScript  
+<!--
+- **后端**：Python/Go + FastAPI/Gin  
+- **AI 引擎**：PyTorch/TensorFlow + HuggingFace/LLaMA  
+- **数据处理**：Flink/Spark + Elasticsearch  
+- **前端**：React/Vue + ECharts  
+- **部署**：Docker + Kubernetes  
+-->
+
+## 🚀 快速开始  
+
+```bash
+# 克隆项目
+git clone https://github.com/FreeAiOps/FreeAiOps.git
+cd FreeAiOps
+
+# 启动服务（示例）
+docker-compose up -d
+```  
+
+📖 详细部署文档请见 [部署指南，在编写ing](./docs/INSTALL.md)  
+
+## 🤝 参与贡献  
+
+FreeAiOps 是一个 **开源项目**，欢迎所有开发者、运维工程师和 AI 爱好者加入！  
+- 提交 Issue：报告 Bug 或提出新功能建议  
+- 提交 PR：修复问题或贡献代码  
+- 完善文档：帮助改进使用指南  
+
+## 📜 开源协议  
+
+FreeAiOps 采用 **Apache License 2.0**，可自由用于商业和个人项目。  
+
+## 📞 联系我们  
+
+- 💬 微信：freeaiclub
+- 📞 电话：+86-15700176897 
+
+---
+
+✨ **让 AI 改变运维，让运维更智能！** ✨
