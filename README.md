@@ -1,10 +1,10 @@
-# FreeAiOps - 开源智能运维解决方案  
-🚀 **FreeAiOps** 是一个基于大模型的智能运维（AIOps）开源项目，旨在通过人工智能技术革新传统运维模式，实现自动化、智能化的运维管理!!!
+# FreeAiOps - 智能运维 自动化运维
+智能运维、自动化运维、Zabbix、Prometheus、Grafana、Nagios、ELK Stack（Elasticsearch、Logstash、Kibana）、Graylog、Ansible、SaltStack、Puppet、Chef、Terraform、Docker、Kubernetes、OpenShift、Jenkins、MySQL、PostgreSQL、MariaDB、Redis、MongoDB、InfluxDB、Ceph、MinIO，RabbitMQ、Kafka、NATS、Apache Pulsar、Nginx、Apache HTTP Server、HAProxy、Traefik、Caddy、OpenStack、OpenLDAP、FreeRDP，🚀 **FreeAiOps** 是一个基于大模型的智能运维（AIOps）开源项目，旨在通过人工智能技术革新传统运维模式，实现自动化、智能化的运维管理，工具涵盖了IT运维中的监控、日志、自动化、容器化、安全、网络等多个领域，欢迎一起探讨!!!
 
 ## 🌟 项目愿景  
 
 FreeAiOps 致力于构建一个 **开放、高效、易用** 的 AIOps 平台，利用大模型（LLM）技术赋能运维行业，帮助企业和开发者：  
-✔ **自动化运维** - 减少人工干预，提升运维效率  
+✔ **自动化运维** - 减少人工干预，提升运维效率
 ✔ **智能故障预测** - 提前发现潜在问题，降低业务风险  
 ✔ **根因分析（RCA）** - 快速定位问题根源，缩短故障恢复时间  
 ✔ **可观测性增强** - 结合日志、指标、链路数据，提供深度分析  
